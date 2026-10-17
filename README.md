@@ -10,7 +10,7 @@ An interactive recreation of the birthday animation in the supplied reference vi
 
 ## Run on Windows
 
-Extract the ZIP completely. Open the `Birthday_Gift` folder and double-click `index.html`.
+Download this repository using **Code → Download ZIP**, extract the ZIP completely, and double-click `index.html` inside the extracted folder.
 
 No Python, npm, installation, or internet connection is required. Keep the `assets` folder, CSS and JavaScript beside `index.html`.
 
